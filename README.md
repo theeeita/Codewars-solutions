@@ -62,3 +62,47 @@
 * **The Hashtag Generator [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/52449b062fb80683ec000024)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/generateHashtag.js)<br>
+#### 6kyu:
+* **Decode the Morse code (Part 1) [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/54b724efac3d5402db00065e)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/docodeTheMorse.js)<br>
+* **Valid Braces [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/validBraces.js)<br>
+* **Persistent Bugger [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/PersistentBugger.js)<br>
+* **Count the smiley faces! [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/583203e6eb35d7980400002a)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/countSmileyFaces.js)<br>
+* **Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!! [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/5626b561280a42ecc50000d1)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/simDigPow.js)<br>
+* **Array.diff [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/523f5d21c841566fde000009)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/arrayDiff.js)<br>
+* **Build Tower [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/towerBuilder.js)<br>
+* **Playing with digits [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/5552101f47fc5178b1000050)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/PlayingWithDigits.js)<br>
+* **Create Phone Number [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/525f50e3b73515a6db000b83)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/createPhoneNumber.js)<br>
+* **Multiply list by integer (with restrictions) [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/57f7e7617a28db2a2200021a)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/multipleList.js)<br>
+* **Which are in? [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/550554fd08b86f84fe000a58)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/whichAreIn.js)<br>
+#### 7kyu:
+* **Insert dashes [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/55960bbb182094bc4800007b)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/7kyu/insertDashes.js)<br>
+* **Countdown to Christmas [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/56f6b23c9400f5387d000d48)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/7kyu/CountdowntoChristmas.js)<br>
+* **Credit Card Mask [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/5412509bd436bd33920011bc)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/7kyu/maskify.js)<br>
