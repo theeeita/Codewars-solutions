@@ -12,6 +12,9 @@
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/3kyu/Calculator.js)<br>
    
 #### 4kyu:
+ * **Sudoku Solution Validator [Завершен]**<br>
+   [Страница на Codewars](https://www.codewars.com/kata/529bf0e9bdf7657179000008)<br>
+   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/sudokuValidation.js)<br>
  * **Matrix Determinant [Завершен]**<br>
    [Страница на Codewars](https://www.codewars.com/kata/52a382ee44408cea2500074c)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/matrixDeterminant.js)<br>
