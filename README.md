@@ -59,3 +59,6 @@
 * **Calculating with Functions [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/525f3eda17c7cd9f9e000b39)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/CalculatingWithFunctions.js)<br>
+* **The Hashtag Generator [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/52449b062fb80683ec000024)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/generateHashtag.js)<br>
