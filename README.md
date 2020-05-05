@@ -15,6 +15,9 @@
  * **Sudoku Solution Validator [Завершен]**<br>
    [Страница на Codewars](https://www.codewars.com/kata/529bf0e9bdf7657179000008)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/sudokuValidation.js)<br>
+ * **Remove Zeros [Завершен]**<br>
+   [Страница на Codewars](https://www.codewars.com/kata/52aae14aa7fd03d57400058f)<br>
+   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/removeZeros.js)<br>
  * **Matrix Determinant [Завершен]**<br>
    [Страница на Codewars](https://www.codewars.com/kata/52a382ee44408cea2500074c)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/matrixDeterminant.js)<br>
