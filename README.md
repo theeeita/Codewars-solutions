@@ -5,7 +5,7 @@
 <br><br>
 К каждой kata будет добавлено описание на русском языке, перевод не является официальным. Перевод вольный и может содержать ошибки, которые я постараюсь исправлять.
 
-#### 3kyu:
+### 3kyu:
   * **Binomial Expansion [Завершен]**<br>
    [Страница на Codewars](https://www.codewars.com/kata/540d0fdd3b6532e5c3000b5b)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/3kyu/BinomialExpansion.js)<br>
@@ -15,7 +15,7 @@
    [Страница на Codewars](https://www.codewars.com/kata/5235c913397cbf2508000048)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/3kyu/Calculator.js)<br>
    
-#### 4kyu:
+### 4kyu:
  * **Sudoku Solution Validator [Завершен]**<br>
    [Страница на Codewars](https://www.codewars.com/kata/529bf0e9bdf7657179000008)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/sudokuValidation.js)<br>
@@ -38,7 +38,7 @@
    [Страница на Codewars](https://www.codewars.com/kata/520446778469526ec0000001)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/nestingStructure.js)<br>
    
-#### 5kyu:
+### 5kyu:
  * **Pick peaks [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/pickPeaks.js)<br>
@@ -75,7 +75,7 @@
 * **The Hashtag Generator [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/52449b062fb80683ec000024)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/generateHashtag.js)<br>
-#### 6kyu:
+### 6kyu:
 * **Decode the Morse code (Part 1) [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/54b724efac3d5402db00065e)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/docodeTheMorse.js)<br>
@@ -109,7 +109,7 @@
 * **Which are in? [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/550554fd08b86f84fe000a58)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/whichAreIn.js)<br>
-#### 7kyu:
+### 7kyu:
 * **Insert dashes [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/55960bbb182094bc4800007b)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/7kyu/insertDashes.js)<br>
