@@ -27,6 +27,9 @@
  * **Range Extraction [Завершен]**<br>
    [Страница на Codewars](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/rangeExtraction.js)<br>
+ * **Adding Big Numbers [Завершен]**<br>
+   [Страница на Codewars](https://www.codewars.com/kata/525f4206b73515bffb000b21)<br>
+   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/addingBigNumbers.js)<br>
  * **Nesting Structure Comparison [Завершен]**<br>
    [Страница на Codewars](https://www.codewars.com/kata/520446778469526ec0000001)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/nestingStructure.js)<br>
