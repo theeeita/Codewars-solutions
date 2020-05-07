@@ -23,7 +23,7 @@ function determinant(matrix) {
 				if(line !== 0) temp.push(line);
 			}
 
-			if(temp !== 0) {
+			if(temp.length !== 0) {
 				let minorStep = firstLine[step] * determinant(temp);
 				if(step % 2 === 0) result += minorStep;
 				else result -= minorStep;

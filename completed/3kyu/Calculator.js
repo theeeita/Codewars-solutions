@@ -59,9 +59,7 @@ const Calculator = function() {
 	this.evaluate = function(str) {
 		let temp = smartSplit(str),
 				hasBrackets = temp.some(item => item === "("),
-				hasMulDiv = temp.some(item => {
-					return item === "*" || item === "/";
-				});
+				hasMulDiv = temp.some(item => item === "*" || item === "/");
 
 		// Обработка выражений в скобках:
 		if(hasBrackets) {
