@@ -38,12 +38,18 @@
  * **Pick peaks [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/5279f6fe5ab7f447890006a7)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/pickPeaks.js)<br>
+ * **Haskell List Dot Notation [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/53c8b29750fe70e4a2000610)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/HaskellListDotNotation.js)<br>
  * **String incrementer [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/54a91a4883a7de5d7800009c)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/incrementString.js)<br>
  * **Tic-Tac-Toe Checker [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/525caa5c1bf619d28c000335)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/TicTacToeCheker.js)<br>
+ * Where my anagrams at? [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/WhereMyAnagramasat.js)<br>
  * **Rot13 [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/530e15517bc88ac656000716)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/rot13.js)<br>
@@ -75,6 +81,12 @@
 * **Decode the Morse code (Part 1) [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/54b724efac3d5402db00065e)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/docodeTheMorse.js)<br>
+* **Simple Fun #79: Delete a Digit [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/5894318275f2c75695000146)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/simpleFun79DeleteDigit.js)<br>
+* **Sort the odd [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/578aa45ee9fd15ff4600090d/)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/sortTheOdd.js)<br>
 * **Valid Braces [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/validBraces.js)<br>
