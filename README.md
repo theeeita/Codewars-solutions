@@ -80,6 +80,7 @@
 * **The Hashtag Generator [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/52449b062fb80683ec000024)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/generateHashtag.js)<br>
+  
 ### 6kyu:
 * **Decode the Morse code (Part 1) [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/54b724efac3d5402db00065e)<br>
@@ -108,6 +109,9 @@
 * **Build Tower [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/576757b1df89ecf5bd00073b)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/towerBuilder.js)<br>
+* **Duplicate Encoder [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/54b42f9314d9229fd6000d9c)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/duplicateEncoder.js)<br>
 * **Playing with digits [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/5552101f47fc5178b1000050)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/PlayingWithDigits.js)<br>
