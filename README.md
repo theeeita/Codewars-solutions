@@ -27,6 +27,9 @@
  * **Range Extraction [Завершен]**<br>
    [Страница на Codewars](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/rangeExtraction.js)<br>
+ * **Haskell List Comprehension (ii) [Завершен]**<br>
+   [Страница на Codewars](https://www.codewars.com/kata/53c8bcb1689f84238c000661)<br>
+   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/HaskellListComprehension2.js)<br>
  * **Adding Big Numbers [Завершен]**<br>
    [Страница на Codewars](https://www.codewars.com/kata/525f4206b73515bffb000b21)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/addingBigNumbers.js)<br>
