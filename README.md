@@ -47,7 +47,7 @@
  * **Tic-Tac-Toe Checker [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/525caa5c1bf619d28c000335)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/TicTacToeCheker.js)<br>
- * Where my anagrams at? [Завершен]**<br>
+ * **Where my anagrams at? [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/523a86aa4230ebb5420001e1)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/WhereMyAnagramasat.js)<br>
  * **Rot13 [Завершен]**<br>
