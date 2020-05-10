@@ -12,6 +12,9 @@
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/3kyu/Calculator.js)<br>
   
 ### 4kyu:
+ * **Ranking Poker Hands [Завершен]**<br>
+   [Страница на Codewars](https://www.codewars.com/kata/5739174624fc28e188000465)<br>
+   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/RankingPokerHands.js)<br>
  * **Sudoku Solution Validator [Завершен]**<br>
    [Страница на Codewars](https://www.codewars.com/kata/529bf0e9bdf7657179000008)<br>
    [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/4kyu/sudokuValidation.js)<br>
