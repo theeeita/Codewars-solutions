@@ -100,6 +100,9 @@
 * **Count the smiley faces! [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/583203e6eb35d7980400002a)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/countSmileyFaces.js)<br>
+* **Simple Web Framework #1: Create a basic router [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/588a00ad70720f2cd9000005)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/simpleWebFramework.js)<br>
 * **Take a Number And Sum Its Digits Raised To The Consecutive Powers And ....¡Eureka!! [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/5626b561280a42ecc50000d1)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/simDigPow.js)<br>
