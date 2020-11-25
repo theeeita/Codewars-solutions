@@ -11,9 +11,7 @@
  */
 function validISBN10(isbn) {
     if(/^\d{9}[\dx]$/i.test(isbn)) {
-      const numbers = isbn.split("").map(value => {
-        return isNaN(value) ? 10 : +value;
-      });
+      const numbers = isbn.split("").map(value => isNaN(value) ? 10 : +value);
       
       return numbers.reduce((sum, value, pos) => sum += (value * (pos + 1)), 0) % 11 === 0;
     }
