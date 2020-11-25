@@ -59,6 +59,12 @@
  * **Rot13 [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/530e15517bc88ac656000716)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/rot13.js)<br>
+ * **Tribonacci Sequence [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/556deca17c58da83c00002db)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/Tribonacci.js)<br>
+ * **PaginationHelper [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/515bb423de843ea99400000a)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/PaginationHelper.js)<br>
  * **String insert values [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/529b54d9aba78c924d00088e)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/StringInsertValues.js)<br>
