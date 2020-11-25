@@ -103,6 +103,12 @@
 * **Valid Braces [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/5277c8a221e209d3f6000b56)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/validBraces.js)<br>
+* **IP Validation [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/isValidIP.js)<br>
+* **Convert string to camel case [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/517abf86da9663f1d2000003)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/convertStringToCamelCase.js)<br>
 * **Persistent Bugger [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/PersistentBugger.js)<br>
@@ -140,6 +146,9 @@
 * **Insert dashes [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/55960bbb182094bc4800007b)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/7kyu/insertDashes.js)<br>
+* **Remove anchor from URL [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/51f2b4448cadf20ed0000386/)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/7kyu/removeAnchorsFromURL.js)<br>
 * **Countdown to Christmas [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/56f6b23c9400f5387d000d48)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/7kyu/CountdowntoChristmas.js)<br>
