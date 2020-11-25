@@ -59,6 +59,9 @@
  * **Rot13 [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/530e15517bc88ac656000716)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/rot13.js)<br>
+* **ISBN-10 Validation [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/51fc12de24a9d8cb0e000001)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/ISBN-10_Validation.js)<br>
  * **Tribonacci Sequence [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/556deca17c58da83c00002db)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/5kyu/Tribonacci.js)<br>
