@@ -109,6 +109,9 @@
 * **IP Validation [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/515decfd9dcfc23bb6000006)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/isValidIP.js)<br>
+* **Partial Keys [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/5e602796017122002e5bc2ed)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/partialKeys.js)<br>
 * **Convert string to camel case [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/517abf86da9663f1d2000003)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/convertStringToCamelCase.js)<br>
