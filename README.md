@@ -112,6 +112,9 @@
 * **Partial Keys [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/5e602796017122002e5bc2ed)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/partialKeys.js)<br>
+* **Generic numeric template formatter [Завершен]**<br>
+  [Страница на Codewars](https://www.codewars.com/kata/59901fb5917839fe41000029)<br>
+  [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/genericNumericTemplateFormatter.js)<br>
 * **Convert string to camel case [Завершен]**<br>
   [Страница на Codewars](https://www.codewars.com/kata/517abf86da9663f1d2000003)<br>
   [Мое решение](https://github.com/theeeita/Codewars-solutions/blob/master/completed/6kyu/convertStringToCamelCase.js)<br>
